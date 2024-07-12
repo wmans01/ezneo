@@ -1,7 +1,7 @@
 # ezneo: helpful functions and algorithms for RACECAR NEO
 made by wmans01
 
-This library is designed to have many scripts and motion algorithms to help for fast and accurate tuning for the BWSI Summer Program RACECAR course.
+This Python library is designed to have many scripts and motion algorithms to help for fast and accurate tuning for the BWSI Summer Program RACECAR course.
 
 ### Features
 none lol
@@ -15,5 +15,7 @@ none lol
 * Dot Display Presets
 * HSV Tuner
 * Lidar Tuner
+* Pure Pursuit
+* MPC
 ### Installation
 in progress
